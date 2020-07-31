@@ -1,4 +1,4 @@
-package com.example.liionortiger;
+package com.example.lionortiger;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.gridlayout.widget.GridLayout;

@@ -1,4 +1,4 @@
-package com.example.liionortiger;
+package com.example.lionortiger;
 
 import android.content.Context;
 
